@@ -22,6 +22,14 @@ $ parq EOTNL.parquet -s
 
 # SQL Examples
 
+The examples below use a tool called DuckDB-CLI that can be downloaded from this website - https://duckdb.org/docs/installation/
+
+Once installed, to start your DuckDB session and get your command prompt, use the following command.
+
+```
+$ duckdb
+```
+
 ## How many rows are in the database?
 
 ```sql
