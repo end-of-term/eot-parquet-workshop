@@ -26,4 +26,6 @@ TODO
 
 ## Questions / Comments
 
-If you have questions or comments about this workshop please feel free to contact us at Sawood Alam (sawood@archive.org) or Mark Phillips (mark.phillips@unt.edu)
+If you have questions or comments about this workshop please feel free to contact us:
+* Sawood Alam (sawood@archive.org)
+* Mark Phillips (mark.phillips@unt.edu)
