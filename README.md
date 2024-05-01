@@ -9,7 +9,8 @@ Parquet workshop using the End of Term Web Archive
 
 ## Slides
 
-TODO
+* [Leveraging Parquet Files for Efficient Web Archive Collection Analytics](slides/web_archive_analytics.pdf)
+* [An Introduction to Parquet File Format for Data Analytics](slides/web_archive_analytics.pdf)
 
 ## Datasets
 
