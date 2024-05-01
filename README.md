@@ -4,7 +4,7 @@ Parquet workshop using the End of Term Web Archive
 
 ## Past Dates Offered
 
-* IIPC Web Archiving Conference - April 25, 2024 -(link to session page)
+* [IIPC Web Archiving Conference - April 25, 2024](https://netpreserve.org/event/2024-wac-preconference-workshops/)
 
 
 ## Slides
