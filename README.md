@@ -25,7 +25,7 @@ Download these files and place them into the `tutorials` folder in order for the
 
 * [Command Line Parquet Tutorial](tutorials/CLI-Parquet.md)
 * [SQL Parquet Tutorial Notebook](tutorials/SQL-Parquet.ipynb)
-* [Pandas Parquet Tutorial](tutorials/Pandas-Parquet.ipynb)
+* [Pandas Parquet Tutorial Notebook](tutorials/Pandas-Parquet.ipynb)
 
 ## Questions / Comments
 
