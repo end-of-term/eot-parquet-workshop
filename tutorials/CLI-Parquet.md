@@ -15,7 +15,7 @@ Investigate Parque file
 
 ```
 $ pip install parquet-cli
-$ parq –help
+$ parq --help
 $ parq EOTNL.parquet
 $ parq EOTNL.parquet -s
 ```
