@@ -85,7 +85,7 @@ SELECT COUNT(*) AS count FROM EOTNL.parquet;
 ```
 
 ```
-$ cat op.markdown
+$ cat op.md
 $ cat op.json
 ```
 
