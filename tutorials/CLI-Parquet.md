@@ -145,7 +145,7 @@ SELECT YEAR(fetch_time) AS year, MONTH(fetch_time) AS month, COUNT(fetch_time) A
 
 ## What are the frequencies of various mime types in the dataset?
 
-```
+```sql
 SELECT content_mime_type AS mime, COUNT(content_mime_type) AS count FROM EOTNL.parquet GROUP BY mime ORDER BY count DESC;
 ```
 
